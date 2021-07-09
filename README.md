@@ -22,11 +22,11 @@ Based on these results we determined that:
 - Rural cities have the highest average fare per ride and driver
 - Suburban city totals and averages aare average overall compared to urban and rural cities
 
-Total Fare by City Type
+#### Total Fare by City Type
 
 ![image](https://user-images.githubusercontent.com/84201614/125123683-9698c580-e0bc-11eb-9dd2-44d9e2ad503a.png)
 
-#### Based on these results we determined that:
+Based on these results we determined that:
 - Urban cities have a consistently high fare overtime
 - Rural city fares remain consistently low with their lowest total fares occuring in the middle/end of January.
 - Suburban city fares remain at an average fare rate compared to urban and rural cities and experienced a slight drop in total fares in late February.
