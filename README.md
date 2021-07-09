@@ -13,7 +13,7 @@ This mock analysis is based on the analysis of ride-sharing data provided by a r
 
 ## Results
 
-### Pyber Summary DataFrame
+#### Pyber Summary DataFrame
 
 ![image](https://user-images.githubusercontent.com/84201614/125120410-0b1d3580-e0b8-11eb-9ec5-a59b98fb4e22.png)
 
@@ -26,7 +26,7 @@ Total Fare by City Type
 
 ![image](https://user-images.githubusercontent.com/84201614/125123683-9698c580-e0bc-11eb-9dd2-44d9e2ad503a.png)
 
-### Based on these results we determined that:
+#### Based on these results we determined that:
 - Urban cities have a consistently high fare overtime
 - Rural city fares remain consistently low with their lowest total fares occuring in the middle/end of January.
 - Suburban city fares remain at an average fare rate compared to urban and rural cities and experienced a slight drop in total fares in late February.
